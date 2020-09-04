@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1556469760 source:c:\users\alanmsmxyz\documents\tubes asd\aplikasi pendataan keluarga\menu.cpp
+	"menu.h"
+	"multilist.h"
+
+1556460769 c:\users\alanmsmxyz\documents\tubes asd\aplikasi pendataan keluarga\menu.h
+	<iostream>
+	<string>
+	"toolkit.h"
+	"multilist.h"
+
+1556463251 c:\users\alanmsmxyz\documents\tubes asd\aplikasi pendataan keluarga\toolkit.h
+	<iostream>
+	<string>
+
+1556505627 source:c:\users\alanmsmxyz\documents\tubes asd\aplikasi pendataan keluarga\multilist.cpp
+	"multiList.h"
+
+1556463247 source:c:\users\alanmsmxyz\documents\tubes asd\aplikasi pendataan keluarga\toolkit.cpp
+	"toolkit.h"
+
+1556469977 source:c:\users\alanmsmxyz\documents\tubes asd\aplikasi pendataan keluarga\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"multiList.h"
+	"toolkit.h"
+	"menu.h"
+
+1556504367 c:\users\alanmsmxyz\documents\tubes asd\aplikasi pendataan keluarga\multilist.h
+	<iostream>
+
